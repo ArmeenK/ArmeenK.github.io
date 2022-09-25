@@ -150,9 +150,11 @@ hr{
     padding-bottom: 2%;
     background-color: #BF8B67;
 }
-a:hover{
-    color: #ffffff;
+a{
+    text-decoration: none;
+    color: #1C0A00;
 }
+
 .footer-link1{
     position: absolute;
     left: 40%;
